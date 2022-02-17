@@ -1,3 +1,3 @@
 # Front Page for Website
 
-## My First Project using SCSS
+## My First Project using SASS
